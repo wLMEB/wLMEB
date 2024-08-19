@@ -1,4 +1,5 @@
-## Hello there! My name is Wanqi, an undergraduate student studying Computer Science and Computer Engineering at Umass Amherst.
+## Hello there! 
+### My name is Wanqi, an undergraduate student studying Computer Science and Computer Engineering at Umass Amherst.
 
 <!--
 **wLMEB/wLMEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
