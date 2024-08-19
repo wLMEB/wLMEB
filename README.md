@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# My name is Wanqi, an undergraduate student studying Computer Science and Computer Engineering at Umass Amherst
+
+- I have experience in...
