@@ -1,4 +1,4 @@
-## Hello there!
+## Hello there! My name is Wanqi, an undergraduate student studying Computer Science and Computer Engineering at Umass Amherst.
 
 <!--
 **wLMEB/wLMEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My name is Wanqi, an undergraduate student studying Computer Science and Computer Engineering at Umass Amherst
-
 - I have experience in...
+  * Circuit boards designing, testing, and assembling
+  * Web Application Development using node.js and flask with RESTful APIs
+  * C/C++ programming experience simulating Linux shell, kernel scheduler, memory allocator, and file system.
+  * Contributing to opensource documentation
+- I like...
+  * Animals, plants, and nature
+  * Reading mystery, thriller, and children's literature
